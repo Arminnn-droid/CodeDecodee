@@ -76,7 +76,7 @@ public class encryptDecrypt {
 
             isEncrypted = true;
 
-        }else System.out.println("The file is not encrypted or it is not encrypted by our formula!");
+        }else System.out.println("The file is not encrypted!");
 
     }
 }
